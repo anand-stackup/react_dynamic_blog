@@ -1,0 +1,13 @@
+
+
+.tags span{
+    background-color: #f1f1f1;
+    padding: 5px 7px;
+    margin-bottom: 20px;
+}
+
+.tags span:hover{
+    background-color: black;
+    color: #fff;
+    font-size: 13px;
+}

@@ -1,0 +1,18 @@
+.signup-page{
+    position: relative;
+}
+
+.signup-page img{
+    /* display: none; */
+    height: 100vh;
+}
+
+.signup-content{
+    top: 0;
+    width: 100%;
+    position: absolute;
+}
+
+.signup-content .header h1{
+    color: #fff;
+}

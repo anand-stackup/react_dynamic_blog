@@ -1,0 +1,37 @@
+
+
+.header{
+    padding: 45px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    margin-bottom: 15px;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.header-span{
+    background-color: black;
+    color: white;
+    padding: 0 5px;
+}
+
+.header button{
+    width: 8%;
+    padding: 12px 14px;
+    font-size: 15px;
+    font-weight: 500;
+    border: 1px solid rgb(220, 220, 220);
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-right: 60px;
+}
+
+.header-button{
+    display: flex;
+    justify-content: right;
+}

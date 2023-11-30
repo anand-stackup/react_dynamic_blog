@@ -1,0 +1,46 @@
+.footer{
+    padding: 40px 20px 60px 20px;
+    background-color: #616161;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 35px;
+}
+
+.footer-btn{
+    display: flex;
+    gap: 5px;
+}
+
+.footer-btn button{
+    padding: 14px 26px;
+    font-size: 15px;
+    font-weight: 400;
+    background-color: #000;
+    border: none;
+    cursor: pointer;
+}
+
+.footer-btn button:hover{
+    background-color: #ccc;
+    color: #000;
+}
+
+.nxt-btn{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    color: #fff;
+}
+
+.prev-btn{
+    color: #ccc;
+}
+
+.footer p{
+    color: #fff;
+}
+
+.footer p a{
+    color: #fff;
+}

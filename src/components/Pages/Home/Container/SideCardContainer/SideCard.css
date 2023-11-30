@@ -1,0 +1,20 @@
+.side-card{
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16);
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.side-description{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: left;
+    padding: 14px;
+    background-color: #fff;
+}
+
+.side-description h3{
+    font-size: 20px;
+    font-weight: 500;
+}
